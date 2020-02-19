@@ -10,6 +10,9 @@ namespace DemoAppGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Changed");
+            Console.Read();
+
         }
     }
 }
